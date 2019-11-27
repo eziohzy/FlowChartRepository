@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-27T03:34:19.997Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="smrJlUWvp21Ra0f0dL_R" version="12.3.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-27T03:58:49.261Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="CIcNZ7_ofHKwKladuGPb" version="12.3.1" type="github" pages="1">
   <diagram id="POBhbw0DkIfMIii83Tgg" name="Page-1">
     <mxGraphModel dx="1357" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,6 +164,9 @@
         </mxCell>
         <mxCell id="J_mEW-v-aDG5xAjbqyJe-58" value="返回判断信号量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="580" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="J_mEW-v-aDG5xAjbqyJe-59" value="单线程即可。&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
