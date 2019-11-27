@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-27T03:00:13.738Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="RckB_TVkq0GaYvR0JI1U" version="12.3.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-27T03:31:36.896Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="xKK0iAvlmDYt1_Y0lVU0" version="12.3.1" type="github" pages="1">
   <diagram id="POBhbw0DkIfMIii83Tgg" name="Page-1">
     <mxGraphModel dx="1357" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
             <mxPoint x="260" y="650" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-17" value="发送snap信号（snap_com down）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J_mEW-v-aDG5xAjbqyJe-17" value="发送snap信号（&lt;br&gt;snap down&lt;br&gt;snap_com down）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="550" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="J_mEW-v-aDG5xAjbqyJe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_mEW-v-aDG5xAjbqyJe-19">
@@ -104,8 +104,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-22" value="设置超时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="660" width="120" height="60" as="geometry"/>
+        <mxCell id="J_mEW-v-aDG5xAjbqyJe-22" value="设置超时&lt;br&gt;（snap_com up）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="660" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="J_mEW-v-aDG5xAjbqyJe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_mEW-v-aDG5xAjbqyJe-28">
           <mxGeometry relative="1" as="geometry">
