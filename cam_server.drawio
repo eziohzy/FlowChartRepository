@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-27T09:19:50.522Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="d4C9FvkU7TPQMrO4dk_6" version="12.3.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-27T09:23:25.348Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="N-4vGd-4nbgrfc8DFKV6" version="12.3.1" type="github" pages="1">
   <diagram id="POBhbw0DkIfMIii83Tgg" name="Page-1">
     <mxGraphModel dx="1357" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,19 +160,18 @@
         <mxCell id="J_mEW-v-aDG5xAjbqyJe-69" value="发送参数包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="201" y="50" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_mEW-v-aDG5xAjbqyJe-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="130" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="321" y="180"/>
-              <mxPoint x="321" y="120"/>
-              <mxPoint x="260" y="120"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="J_mEW-v-aDG5xAjbqyJe-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_mEW-v-aDG5xAjbqyJe-71" target="J_mEW-v-aDG5xAjbqyJe-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255.5" y="210" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_mEW-v-aDG5xAjbqyJe-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_mEW-v-aDG5xAjbqyJe-71" target="J_mEW-v-aDG5xAjbqyJe-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="341" y="180"/>
+              <mxPoint x="341" y="30"/>
+              <mxPoint x="261" y="30"/>
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J_mEW-v-aDG5xAjbqyJe-71" value="是否收到握手回复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
