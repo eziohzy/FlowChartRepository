@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-27T03:58:49.261Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="CIcNZ7_ofHKwKladuGPb" version="12.3.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-27T05:50:33.255Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="J3yBPGLWd7TmikVpAit9" version="12.3.1" type="github" pages="1">
   <diagram id="POBhbw0DkIfMIii83Tgg" name="Page-1">
     <mxGraphModel dx="1357" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,50 +120,6 @@
         </mxCell>
         <mxCell id="J_mEW-v-aDG5xAjbqyJe-43" value="返回接受" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1060" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-47" value="主线程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="120" width="40" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_mEW-v-aDG5xAjbqyJe-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="280" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-48" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="180" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_mEW-v-aDG5xAjbqyJe-50" target="J_mEW-v-aDG5xAjbqyJe-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="410" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="590" y="360"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_mEW-v-aDG5xAjbqyJe-50" target="J_mEW-v-aDG5xAjbqyJe-54">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-50" value="判断信号量" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="280" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_mEW-v-aDG5xAjbqyJe-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="580" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-52" value="设置参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="420" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_mEW-v-aDG5xAjbqyJe-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="580" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-54" value="snap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="420" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="J_mEW-v-aDG5xAjbqyJe-58" value="返回判断信号量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="580" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="J_mEW-v-aDG5xAjbqyJe-59" value="单线程即可。&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="200" width="40" height="20" as="geometry"/>
